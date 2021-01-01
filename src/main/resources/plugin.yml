@@ -1,0 +1,11 @@
+name: PlayerSlotBypass
+version: @version@
+main: net.gabbage.playerslotbypass.PlayerSlotBypass
+api-version: 1.16
+prefix: PlayerSlotBypass
+authors: [ Ginotuch ]
+description: Allows certain players to bypass player slot limits
+website: https://gabbage.net
+permissions:
+  playerslot.bypass:
+    description: Allows the player to bypass the player slot limit
